@@ -4,7 +4,7 @@
 `TODO://` The app(user stories) uses the button on the bottom to print hello in terminal
 
 
-<img src="https://recordit.co/q7eENjT7LT" width=200><br>
+<img src="http://g.recordit.co/q7eENjT7LT.gif" width=200><br>
 
 ### Required User Stories
 - [ x] 1. User sees custom text in a label - Hello from {name}!
